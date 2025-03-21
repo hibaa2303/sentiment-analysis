@@ -1,0 +1,12 @@
+# Ignore virtual environment
+venv/
+
+# Ignore large data and model files
+tweets.csv
+sentiment_model.pkl
+tfidf_vectorizer.pkl
+
+# Ignore any other unnecessary files
+__pycache__/
+*.pyc
+
